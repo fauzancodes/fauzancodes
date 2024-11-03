@@ -2,7 +2,9 @@
 
 ### A Geophysical Engineer turned Fullstack Developer. 
 
-I have 1.8 years of experience as a profesional. My frontend expertise includes modern technologies like Next.js and Tailwind CSS, enabling me to create responsive web designs, manage client and server-side rendering. On the backend, I’m skilled in building REST APIs, implementing gRPC, and designing databases with Golang. I also have a solid foundation in DevOps, proficient in containerizing applications with Docker and Kubernetes, and managing cloud infrastructure using AWS EC2, ECS, and EKS. I’ve successfully contributed to 24 projects, delivering 22 web applications. My analytical skills and problem-solving abilities ensure me to adapt quickly and consistently find effective solutions.
+Hi, I'm Fauzan, a Full Stack Developer. I specialize in developing web applications with lightweight, responsive user interfaces using Next.js and TailwindCSS, paired with high-performance, modular, and scalable APIs (REST & gRPC) using in Go. Additionally, I have strong proficiency in application container orchestration with Docker and Kubernetes, and experience with cloud infrastructure services such as AWS EC2, ECS, and EKS.
+
+I have 1.9 years of experience as a profesional. I’ve successfully contributed to 24 projects, delivering 22 web applications. My analytical skills and problem-solving abilities ensure me to adapt quickly and consistently find effective solutions.
 
 ### Here i made several free applications that can make your life easier, just check below!
 
